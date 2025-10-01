@@ -35,7 +35,7 @@ JFrame (BorderLayout)
 
 3. Pestañas del JTabbedPane (“Resumen” y “Logs”).
 
-![JtabbedPane1](Images/Tabbed1.png) ![JTabbedPane2](Images/Tabbed2.png)
+![JtabbedPane1](Images/Tabbed1.png)   ![JTabbedPane2](Images/Tabbed2.png)
 
 4. Diálogo modal abierto (“¿Guardar cambios?”).
 
