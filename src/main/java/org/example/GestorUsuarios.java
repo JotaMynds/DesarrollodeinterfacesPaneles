@@ -50,10 +50,13 @@ public class GestorUsuarios {
     public GestorUsuarios() {
         GUARDARButton.addActionListener(e -> {
             DialogoConfirmacion dialog = new DialogoConfirmacion();
-                dialog.setModal(true); dialog.pack(); dialog.setVisible(true);
                 dialog.setLocationRelativeTo(null);
+                dialog.setModal(true);
                 dialog.pack();
                 dialog.setVisible(true);
+
+
+
         });
     }
 }
