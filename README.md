@@ -25,10 +25,10 @@ JFrame (BorderLayout)
 
 ## 2️⃣ Capturas de pantalla
 1. Vista general de la ventana completa
-![Vista general](GestorUsuario.png)
-2. Redimensionada (CENTER y Notas crecen).
-3. Pestañas del JTabbedPane (“Resumen” y “Logs”).
-4. Diálogo modal abierto (“¿Guardar cambios?”).
+![Vistageneral](GestorUsuario.png)
+3. Redimensionada (CENTER y Notas crecen).
+4. Pestañas del JTabbedPane (“Resumen” y “Logs”).
+5. Diálogo modal abierto (“¿Guardar cambios?”).
 
 *(Añade las imágenes aquí con etiquetas o rutas relativas a tu repo)*
 
