@@ -46,4 +46,14 @@ public class GestorUsuarios {
     private JTextArea textArea2;
     private JPanel EastPanel;
     private JLabel ActivoLabel;
+
+    public GestorUsuarios() {
+        GUARDARButton.addActionListener(e -> {
+            DialogoConfirmacion dialog = new DialogoConfirmacion();
+                dialog.setModal(true); dialog.pack(); dialog.setVisible(true);
+                dialog.setLocationRelativeTo(null);
+                dialog.pack();
+                dialog.setVisible(true);
+        });
+    }
 }
