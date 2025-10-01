@@ -24,7 +24,8 @@ JFrame (BorderLayout)
 ---
 
 ## 2️⃣ Capturas de pantalla
-1. Vista general de la ventana completa.
+1. Vista general de la ventana completa
+![Vista general](GestorUsuario.png)
 2. Redimensionada (CENTER y Notas crecen).
 3. Pestañas del JTabbedPane (“Resumen” y “Logs”).
 4. Diálogo modal abierto (“¿Guardar cambios?”).
