@@ -1,4 +1,4 @@
-package org.example;
+package org;
 
 import javax.swing.*;
 import java.awt.event.*;
