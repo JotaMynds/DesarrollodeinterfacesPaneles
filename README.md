@@ -3,6 +3,7 @@
 ## 1️⃣ Wireframe y Árbol de Contenedores
 
 **Wireframe:**
+
 ![Wireframe](Images/Wireframe.png)
 
 **Árbol de Contenedores:**
@@ -31,7 +32,7 @@ JFrame (BorderLayout)
 
 2. Redimensionada (CENTER y Notas crecen).
 
-![Redimensiones](Redimensionar.png)
+![Redimensiones](Images/Redimensionar.png)
 
 3. Pestañas del JTabbedPane (“Resumen” y “Logs”).
 
