@@ -1,4 +1,4 @@
-# README - Gestor de Usuarios
+# Gestor de Usuarios
 
 ## 1️⃣ Wireframe y Árbol de Contenedores
 
