@@ -1,4 +1,4 @@
-```markdown
+
 # 🖥️ Gestor de Usuarios
 
 ## 🎨 1️⃣ Wireframe y Árbol de Contenedores 🗂️
@@ -87,4 +87,4 @@ dialog.setVisible(true);
 - 📌 Añadir JMenuBar arriba (Archivo/Editar/Ayuda).
 - 🔘 Botonera con GridLayout(1,3) y compararla con FlowLayout RIGHT.
 - 📝 Formulario solo GridBag con gridwidth=2 para Notas (practicar spans).
-```
+
