@@ -31,7 +31,7 @@ JFrame (BorderLayout)
 
 2. Redimensionada (CENTER y Notas crecen).
 
-![Redimensiones]()
+![Redimensiones](Redimensiones.png)
 
 3. Pestañas del JTabbedPane (“Resumen” y “Logs”).
 
@@ -39,7 +39,7 @@ JFrame (BorderLayout)
 
 4. Diálogo modal abierto (“¿Guardar cambios?”).
 
-
+![Dialog](Images/Dialog.png)
 
 ---
 
