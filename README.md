@@ -78,8 +78,8 @@ dialog.setVisible(true);
 ---
 
 ## 6️⃣ Repositorio GitHub
-- Subir los archivos .form, .java y este README.
-- Asegúrate de incluir las capturas de pantalla dentro del repo para referencia visual.
+- Están publicados los archivos .java, .form y el Readme.md.
+- Se incluyen imagenes con las pruebas de la interfaz.
 
 ---
 
