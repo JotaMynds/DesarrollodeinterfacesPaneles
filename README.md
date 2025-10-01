@@ -3,7 +3,7 @@
 ## 1️⃣ Wireframe y Árbol de Contenedores
 
 **Wireframe:**
-[Wireframe](Wireframe.png)
+![Wireframe](Wireframe.png)
 
 **Árbol de Contenedores:**
 ```
