@@ -3,7 +3,7 @@
 ## 1️⃣ Wireframe y Árbol de Contenedores
 
 **Wireframe:**
-(Inserta aquí tu foto o escaneo del wireframe dibujado a mano)
+[Wireframe](Wireframe.png)
 
 **Árbol de Contenedores:**
 ```
